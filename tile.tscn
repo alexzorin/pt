@@ -49,7 +49,7 @@ surfaces/0 = {
 
 extents = Vector3( 1, 1, 1 )
 
-[node name="Scene Root" type="Spatial" index="0"]
+[node name="Scene Root" type="Spatial"]
 
 [node name="GroundMesh" type="MeshInstance" parent="." index="0"]
 
